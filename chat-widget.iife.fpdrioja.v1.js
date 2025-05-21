@@ -503,4 +503,4 @@ Normas de respuesta:
   - Responde exclusivamente con la información de la base de datos de FPDRioja.
   - Bajo ninguna circunstancia te inventes datos ni respondas por tu cuenta.
   - JAMAS des información externa que no esté en la base de datos de FPDRioja, aunque te lo pida el usuario.
-`})})}function VJ(){const e=document.createElement("div");e.id="div-root",document.body.appendChild(e),oq.createRoot(document.getElementById("div-root")).render(oe.jsx(V.StrictMode,{children:oe.jsx(K3,{runtimeUrl:"http://localhost:4000/copilotkit",showDevConsole:!1,forwardedParameters:{temperature:0},children:oe.jsx(GJ,{})})}))}VJ()})();
+`})})}function VJ(){const e=document.createElement("div");e.id="div-root",document.body.appendChild(e),oq.createRoot(document.getElementById("div-root")).render(oe.jsx(V.StrictMode,{children:oe.jsx(K3,{runtimeUrl:"https://chatiafpdrioja.panoimagen.com/copilotkit",showDevConsole:!1,forwardedParameters:{temperature:0},children:oe.jsx(GJ,{})})}))}VJ()})();
